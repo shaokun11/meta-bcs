@@ -11,3 +11,4 @@ serde = "1.0.180"
 serde_bytes = "0.11.12"
 hex = "0.4.3"
 serde_json = "1.0.104"
+move-binary-format = {git="https://github.com/aptos-labs/aptos-core", rev="6b62f0ac303f882f4a590d97bf62584cdb929755"}
